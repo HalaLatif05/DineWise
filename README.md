@@ -39,11 +39,10 @@ docs/
 
 images/
 ├── splash-screen.png
-├── morning-home.png
-├── night-home.png
-├── smart-suggestion.png
+├── home-screen-morning.png
+├── home-screen-night.png
+├── smart-suggestion-popup.png
 ├── restaurant-page.png
-```
 
 ---
 
@@ -67,15 +66,15 @@ Presentation:
 
 ### Morning Home Screen
 
-![](images/morning-home.png)
+![](images/home-screen-morning.png)
 
 ### Night Home Screen
 
-![](images/night-home.png)
+![](images/home-screen-night.png)
 
 ### Smart Suggestion Popup
 
-![](images/smart-suggestion.png)
+![](images/smart-suggestion-popup.png)
 
 ### Restaurant Page
 
